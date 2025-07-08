@@ -8,26 +8,20 @@ Setiap modul disusun berdasarkan materi praktik perkuliahan dan ditulis dengan h
 
 ## 📁 Daftar Isi
 
-- [Modul 1: HTML Dasar](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-1-html)  
-  Pengenalan struktur dasar HTML dan pembuatan elemen-elemen web sederhana.
+- [Modul 1–3: HTML Dasar, CSS & Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
+  Mempelajari struktur dasar HTML, form, penggunaan CSS untuk styling, serta pemanfaatan framework Bootstrap untuk membuat tampilan web yang responsif.
 
-- [Modul 2: CSS](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-2-css)  
-  Penerapan styling menggunakan CSS untuk memperindah tampilan halaman web.
+- [Modul 4: JavaScript](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-4-javascript)  
+  Membuat halaman web yang interaktif menggunakan JavaScript dasar, event, fungsi, dan manipulasi DOM.
 
-- [Modul 3: Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-3-bootstrap)  
-  Penggunaan framework Bootstrap untuk membuat tampilan yang responsif dan modern.
+- [Modul 5: Dasar-dasar PHP](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-5-php)  
+  Pengantar bahasa pemrograman server-side PHP, logika dasar, dan penanganan input dari form.
 
-- [Modul 4: JavaScript](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-4-javascript)  
-  Belajar scripting interaktif menggunakan JavaScript, manipulasi DOM, event, dan logika program.
+- [Modul 6: PHP Lanjutan & Database](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-6-php-lanjutan)  
+  Menerapkan konsep OOP, koneksi ke database MySQL, dan membuat aplikasi CRUD dinamis.
 
-- [Modul 5: Dasar-dasar PHP](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-5-php)  
-  Pengenalan bahasa pemrograman PHP, penanganan form, dan logika server-side.
-
-- [Modul 6: PHP Lanjutan dan Database](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-6-php-lanjutan)  
-  Materi lanjutan PHP termasuk koneksi ke database MySQL dan pembuatan aplikasi CRUD.
-
-- [Modul 7: Dokumentasi dan Penutup](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-7)  
-  Berisi dokumentasi proyek, ringkasan pembelajaran, dan penutup portofolio.
+- [Modul 7: Dokumentasi & Penutup](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-7)  
+  Berisi ringkasan tugas, dokumentasi proyek, dan catatan akhir pembelajaran.
 
 ---
 
