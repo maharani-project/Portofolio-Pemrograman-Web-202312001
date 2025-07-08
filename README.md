@@ -20,7 +20,7 @@ Setiap modul disusun berdasarkan materi praktik perkuliahan dan ditulis dengan h
 - [Modul 6: PHP Lanjutan & Database](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-6-php-lanjutan)  
   Menerapkan konsep OOP, koneksi ke database MySQL, dan membuat aplikasi CRUD dinamis.
 
-- [Modul 7: Dokumentasi & Penutup](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-7)  
+- [Modul 7: Dokumentasi dan Penutup](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/blob/main/README.md)
   Berisi ringkasan tugas, dokumentasi proyek, dan catatan akhir pembelajaran.
 
 ---
