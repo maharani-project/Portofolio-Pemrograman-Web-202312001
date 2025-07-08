@@ -1,12 +1,11 @@
-# 📘 Portofolio Pemrograman Web
+# Portofolio Pemrograman Web
 
-Halo dan selamat datang! 👋  
-Repositori ini adalah dokumentasi perjalanan saya dalam mempelajari pemrograman web, dimulai dari dasar-dasar HTML hingga pengembangan aplikasi web dinamis menggunakan PHP dan database.  
-Setiap modul disusun berdasarkan materi praktik perkuliahan dan ditulis dengan harapan bisa menjadi referensi belajar, evaluasi diri, serta portofolio kerja ke depannya.
+Halo!   
+Selamat datang di portofolio saya. Repositori ini berisi kumpulan tugas dan catatan praktik selama saya mempelajari Pemrograman Web, dari tahap paling dasar seperti HTML dan CSS, hingga pengembangan aplikasi web dinamis menggunakan PHP dan database. Dokumentasi ini saya susun sebagai bahan belajar pribadi sekaligus portofolio terbuka yang bisa diakses siapa saja.
 
 ---
 
-## 📁 Daftar Isi
+## Daftar Isi
 
 - [Modul 1–3: HTML Dasar, CSS & Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
   Mempelajari struktur dasar HTML, form, penggunaan CSS untuk styling, serta pemanfaatan framework Bootstrap untuk membuat tampilan web yang responsif.
@@ -25,19 +24,19 @@ Setiap modul disusun berdasarkan materi praktik perkuliahan dan ditulis dengan h
 
 ---
 
-## ✅ Cara Menggunakan
+## Cara Menggunakan
 
-1. Pilih modul yang ingin Anda pelajari dari daftar di atas.  
-2. Klik tautan untuk membuka isi folder modul tersebut.  
-3. Di dalamnya terdapat file tugas, dokumentasi, dan materi pendukung.  
-4. Gunakan sebagai referensi belajar dan portofolio kerja pribadi.
+1. Klik tautan pada setiap modul di atas.
+2. Jelajahi isi folder untuk melihat file tugas, kode, atau catatan praktik.
+3. Semua materi bisa digunakan ulang untuk belajar atau referensi pribadi.
 
 ---
 
-Terima kasih telah mengunjungi portofolio ini.  
-Jika ada pertanyaan, saran, atau ingin berkolaborasi, silakan hubungi saya melalui GitHub.
+Terima kasih sudah mampir ke repositori ini!  
+Semoga apa yang saya pelajari dan dokumentasikan di sini bisa bermanfaat baik untuk diri saya sendiri, maupun teman-teman yang sedang belajar pemrograman web.
 
-> _"Belajar pemrograman web adalah perjalanan yang menantang sekaligus menyenangkan. Semoga portofolio ini bisa menjadi langkah awal menuju karya yang lebih besar dan bermanfaat."_  
->  
+"Ubur-ubur, ikan lele
+Push terakhir, langsung lega le"
+
 > Salam hangat,  
 > **Maharani Putri**
