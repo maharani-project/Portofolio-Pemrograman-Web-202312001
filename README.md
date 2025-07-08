@@ -35,8 +35,10 @@ Selamat datang di portofolio saya. Repositori ini berisi kumpulan tugas dan cata
 Terima kasih sudah mampir ke repositori ini!  
 Semoga apa yang saya pelajari dan dokumentasikan di sini bisa bermanfaat baik untuk diri saya sendiri, maupun teman-teman yang sedang belajar pemrograman web.
 
-"Ubur-ubur, ikan lele
-Push terakhir, langsung lega le"
+> **Ubur-ubur, ikan lele**  
+> **Push terakhir, langsung lega le** 
 
-> Salam hangat,  
-> **Maharani Putri**
+---
+
+Salam hangat,  
+Maharani Putri
