@@ -1,38 +1,49 @@
-# Portofolio Pemrograman Web
+# 📘 Portofolio Pemrograman Web
 
-Selamat datang di portofolio pemrograman web saya.  
-Di repository ini terdapat kumpulan tugas dan materi yang saya pelajari dari Modul 1 hingga Modul 7.
-
----
-
-## Daftar Isi
-
-- [Modul 1-3: Pengantar hingga CSS Dasar](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
-  Berisi materi dasar mengenai pengenalan web, HTML dasar, dan CSS dasar untuk memperindah tampilan web.
-
-- [Modul 4: JavaScript Dasar dan Lanjutan](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-4-javascript)  
-  Latihan scripting interaktif menggunakan JavaScript, mulai dari dasar hingga fitur lanjutan.
-
-- [Modul 5: Dasar-dasar PHP](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-5-css)  
-  Pengenalan bahasa pemrograman server-side PHP dan implementasinya.
-
-- [Modul 6: PHP Lanjutan](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-6-html)  
-  Materi lanjutan PHP termasuk konsep OOP, database, dan aplikasi web dinamis.
-
-- [Modul 7: Dokumentasi dan Penutup](./Modul%207/)  
-  Berisi dokumentasi proyek, file README.md, dan ringkasan tugas akhir.
+Halo dan selamat datang! 👋  
+Repositori ini adalah dokumentasi perjalanan saya dalam mempelajari pemrograman web, dimulai dari dasar-dasar HTML hingga pengembangan aplikasi web dinamis menggunakan PHP dan database.  
+Setiap modul disusun berdasarkan materi praktik perkuliahan dan ditulis dengan harapan bisa menjadi referensi belajar, evaluasi diri, serta portofolio kerja ke depannya.
 
 ---
 
-## Cara Menggunakan
+## 📁 Daftar Isi
+
+- [Modul 1: HTML Dasar](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-1-html)  
+  Pengenalan struktur dasar HTML dan pembuatan elemen-elemen web sederhana.
+
+- [Modul 2: CSS](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-2-css)  
+  Penerapan styling menggunakan CSS untuk memperindah tampilan halaman web.
+
+- [Modul 3: Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-3-bootstrap)  
+  Penggunaan framework Bootstrap untuk membuat tampilan yang responsif dan modern.
+
+- [Modul 4: JavaScript](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-4-javascript)  
+  Belajar scripting interaktif menggunakan JavaScript, manipulasi DOM, event, dan logika program.
+
+- [Modul 5: Dasar-dasar PHP](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-5-php)  
+  Pengenalan bahasa pemrograman PHP, penanganan form, dan logika server-side.
+
+- [Modul 6: PHP Lanjutan dan Database](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-6-php-lanjutan)  
+  Materi lanjutan PHP termasuk koneksi ke database MySQL dan pembuatan aplikasi CRUD.
+
+- [Modul 7: Dokumentasi dan Penutup](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/main/modul-7)  
+  Berisi dokumentasi proyek, ringkasan pembelajaran, dan penutup portofolio.
+
+---
+
+## ✅ Cara Menggunakan
 
 1. Pilih modul yang ingin Anda pelajari dari daftar di atas.  
-2. Klik link untuk membuka folder modul tersebut.  
-3. Di dalam folder terdapat file tugas, dokumentasi, dan materi pendukung.  
-4. Gunakan materi ini sebagai referensi belajar dan portofolio kerja.
+2. Klik tautan untuk membuka isi folder modul tersebut.  
+3. Di dalamnya terdapat file tugas, dokumentasi, dan materi pendukung.  
+4. Gunakan sebagai referensi belajar dan portofolio kerja pribadi.
 
 ---
 
-Terima kasih telah mengunjungi portofolio saya!  
-Jika ada pertanyaan atau kolaborasi, silakan hubungi saya.
+Terima kasih telah mengunjungi portofolio ini.  
+Jika ada pertanyaan, saran, atau ingin berkolaborasi, silakan hubungi saya melalui GitHub.
 
+> _"Belajar pemrograman web adalah perjalanan yang menantang sekaligus menyenangkan. Semoga portofolio ini bisa menjadi langkah awal menuju karya yang lebih besar dan bermanfaat."_  
+>  
+> Salam hangat,  
+> **Maharani Putri**
