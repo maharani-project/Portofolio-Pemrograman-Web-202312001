@@ -7,22 +7,16 @@ Di repository ini terdapat kumpulan tugas dan materi yang saya pelajari dari Mod
 
 ## Daftar Isi
 
-- [Modul 1: Pengantar Pemrograman Web](./Modul%201%20Pengantar/)  
-  Materi dasar mengenai pengenalan web, teknologi web, dan konsep dasar pemrograman web.
+- [Modul 1-3: Pengantar hingga CSS Dasar](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
+  Berisi materi dasar mengenai pengenalan web, HTML dasar, dan CSS dasar untuk memperindah tampilan web.
 
-- [Modul 2: HTML Dasar](./Modul%202%20HTML/)  
-  Tugas dan latihan terkait struktur dan elemen-elemen HTML dasar.
-
-- [Modul 3: CSS Dasar](./Modul%203%20CSS/)  
-  Materi dan tugas untuk memperindah tampilan web menggunakan CSS.
-
-- [Modul 4: JavaScript Dasar dan Lanjutan](./Modul%204%20Java%20Script/)  
+- [Modul 4: JavaScript Dasar dan Lanjutan](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-4-javascript)  
   Latihan scripting interaktif menggunakan JavaScript, mulai dari dasar hingga fitur lanjutan.
 
-- [Modul 5: Dasar-dasar PHP](./Modul%205%20Dasar-dasar%20PHP/)  
+- [Modul 5: Dasar-dasar PHP](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-5-css)  
   Pengenalan bahasa pemrograman server-side PHP dan implementasinya.
 
-- [Modul 6: PHP Lanjutan](./Modul%206%20PHP/)  
+- [Modul 6: PHP Lanjutan](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-6-html)  
   Materi lanjutan PHP termasuk konsep OOP, database, dan aplikasi web dinamis.
 
 - [Modul 7: Dokumentasi dan Penutup](./Modul%207/)  
