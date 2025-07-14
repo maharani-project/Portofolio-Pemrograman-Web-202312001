@@ -9,7 +9,13 @@ Dokumentasi ini disusun sebagai bahan belajar pribadi sekaligus portofolio terbu
 
 ## 📁 Daftar Isi
 
-- [📄 Modul 1–3: HTML Dasar, CSS & Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
+- [📄 Modul 1: HTML Dasar, CSS & Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
+  ✨ Belajar struktur dasar HTML, form, CSS untuk styling, serta Bootstrap untuk tampilan web yang responsif.
+
+- [📄 Modul 2: HTML Dasar, CSS & Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
+  ✨ Belajar struktur dasar HTML, form, CSS untuk styling, serta Bootstrap untuk tampilan web yang responsif.
+
+- [📄 Modul 3: HTML Dasar, CSS & Bootstrap](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-1-3)  
   ✨ Belajar struktur dasar HTML, form, CSS untuk styling, serta Bootstrap untuk tampilan web yang responsif.
 
 - [🧠 Modul 4: JavaScript](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/tree/tugas/modul-4-javascript)  
