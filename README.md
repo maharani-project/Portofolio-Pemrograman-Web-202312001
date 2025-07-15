@@ -53,24 +53,22 @@ Branch yang digunakan:
 ---
 
 ## 🚀 Setup & Langkah-langkah Pengerjaan
+
 ### 🔧 Inisialisasi Repository
 
 ```bash
 # Buat repo baru di GitHub bernama Portofolio-Pemrograman-Web-202312001
 git clone https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001.git
 cd Portofolio-Pemrograman-Web-202312001
----
 📦 Struktur Folder Modul 1–3
 ```bash
 mkdir modul-1 modul-2 modul-3
----
 🌱 Buat Branch tugas/modul-1-3
 ```bash
 git checkout -b tugas/modul-1-3
 git add .
 git commit -m "Upload tugas Modul 1-3"
 git push -u origin tugas/modul-1-3
----
 🧪 Pengerjaan Modul 4 – JavaScript
 ```bash
 git checkout main
@@ -80,7 +78,6 @@ mkdir modul-4-javascript
 git add .
 git commit -m "Upload tugas Modul 4 (JavaScript)"
 git push -u origin tugas/modul-4-javascript
----
 ⚙️ Modul 5 – PHP
 ```bash
 git checkout main
@@ -90,7 +87,6 @@ mkdir modul-5-php
 git add .
 git commit -m "Upload tugas Modul 5 PHP"
 git push -u origin tugas/modul-5-php
----
 🗃️ Modul 6 – PHP Lanjutan
 ```bash
 git checkout main
@@ -100,8 +96,6 @@ mkdir modul-6
 git add .
 git commit -m "Upload tugas Modul 6 (PHP lanjutan dan MySQL)"
 git push -u origin tugas/modul-6-php-lanjutan
-
----
 
 📚 Isi Tiap Modul
 
@@ -126,7 +120,7 @@ git push -u origin tugas/modul-6-php-lanjutan
 * [📝 Modul 7: Dokumentasi dan Penutup](https://github.com/maharani-project/Portofolio-Pemrograman-Web-202312001/blob/main/README.md)  
   ✨ Ringkasan pembelajaran, dokumentasi proyek akhir, dan refleksi keseluruhan.
 
----
+
 
 🎯 Tujuan & Manfaat
 
@@ -134,7 +128,7 @@ Mendokumentasikan progres belajar saya secara sistematis
 Melatih penggunaan Git & GitHub dalam alur kerja nyata
 Menjadi portofolio online untuk evaluasi, CV, dan pekerjaan
 
----
+
 
 ✨ Penutup
 **Ubur-ubur, ikan lele**
